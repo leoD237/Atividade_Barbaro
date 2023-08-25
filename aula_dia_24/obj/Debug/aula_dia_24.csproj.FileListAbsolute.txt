@@ -1,0 +1,8 @@
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\bin\Debug\aula_dia_24.exe.config
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\bin\Debug\aula_dia_24.exe
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\bin\Debug\aula_dia_24.pdb
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\obj\Debug\aula_dia_24.csproj.AssemblyReference.cache
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\obj\Debug\aula_dia_24.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\obj\Debug\aula_dia_24.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\obj\Debug\aula_dia_24.exe
+C:\Users\leonardo.acdizero\source\repos\aula_dia_24\obj\Debug\aula_dia_24.pdb

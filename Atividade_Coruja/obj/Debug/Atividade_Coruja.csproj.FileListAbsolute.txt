@@ -1,0 +1,8 @@
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\bin\Debug\Atividade_Coruja.exe.config
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\bin\Debug\Atividade_Coruja.exe
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\bin\Debug\Atividade_Coruja.pdb
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\obj\Debug\Atividade_Coruja.csproj.AssemblyReference.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\obj\Debug\Atividade_Coruja.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\obj\Debug\Atividade_Coruja.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\obj\Debug\Atividade_Coruja.exe
+C:\Users\leonardo.acdizero\source\repos\Atividade_Coruja\obj\Debug\Atividade_Coruja.pdb

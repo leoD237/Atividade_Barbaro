@@ -1,0 +1,8 @@
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\bin\Debug\Atividade_Águia.exe.config
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\bin\Debug\Atividade_Águia.exe
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\bin\Debug\Atividade_Águia.pdb
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\obj\Debug\Atividade_Águia.csproj.AssemblyReference.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\obj\Debug\Atividade_Águia.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\obj\Debug\Atividade_Águia.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\obj\Debug\Atividade_Águia.exe
+C:\Users\leonardo.acdizero\source\repos\Atividade_Águia\obj\Debug\Atividade_Águia.pdb
