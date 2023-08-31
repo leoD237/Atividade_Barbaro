@@ -1,0 +1,8 @@
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\bin\Debug\BOSS_Unicornio.exe.config
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\bin\Debug\BOSS_Unicornio.exe
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\bin\Debug\BOSS_Unicornio.pdb
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\obj\Debug\BOSS_Unicornio.csproj.AssemblyReference.cache
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\obj\Debug\BOSS_Unicornio.csproj.SuggestedBindingRedirects.cache
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\obj\Debug\BOSS_Unicornio.csproj.CoreCompileInputs.cache
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\obj\Debug\BOSS_Unicornio.exe
+C:\Users\leonardo.acdizero\source\repos\BOSS_Unicornio\obj\Debug\BOSS_Unicornio.pdb
